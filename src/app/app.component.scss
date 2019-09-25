@@ -1,0 +1,2 @@
+@import "~src/scss/variables";//Jetbrain asume this incorrect path, while for `ng serve` this path is correct
+@import "~scss/variables";//Jetbrain asume this is correct path, while for `ng serve` this path is incorrect
